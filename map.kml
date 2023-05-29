@@ -1,0 +1,3319 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<name>000005'</name><description>DOME - PRAÇA CONSELHEIRO  MACEDO SOARES
+172.16.11.33
+Poste antigo de 8 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam25</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81725544758037,-22.9161122549508</coordinates></Point></Placemark>
+<Placemark>
+<name>000007'</name><description>DOME - ABREU RANGEL
+172.16.11.37
+Utilizando poste de 7 metros antigo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam6</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81833310181629,-22.91900593816822</coordinates></Point></Placemark>
+<Placemark>
+<name>000008'</name><description>DOME - PRAÇA TIRADENTES - ARAÇATIBA
+172.16.11.108
+Postde de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam36</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82643464120097,-22.92780831122584</coordinates></Point></Placemark>
+<Placemark>
+<name>000011'</name><description>DOME - RUA DOS BANCOS
+172.16.11.110
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam15</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81769619278725,-22.91815446474809</coordinates></Point></Placemark>
+<Placemark>
+<name>000012'</name><description>DOME - RODOVIARIA CENTRO
+172.16.11.39
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam15</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81493899209504,-22.91694476063047</coordinates></Point></Placemark>
+<Placemark>
+<name>000015'</name><description>DOME - CFTV PEC CEU
+172.16.11.30
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam31</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82714901899299,-22.9079928243905</coordinates></Point></Placemark>
+<Placemark>
+<name>000018'</name><description>DOME - ROTATORIA MUMBUCA
+172.16.11.32
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam27</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81989538636531,-22.91350970795695</coordinates></Point></Placemark>
+<Placemark>
+<name>000019'</name><description>DOME - FLAMENGO
+172.16.11.170
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.80136309894719,-22.90315330422389</coordinates></Point></Placemark>
+<Placemark>
+<name>000020'</name><description>PRAÇA ORLANDO DE BARROS PIMENTEL 3 - FIXA
+172.16.11.177
+Utilizando poste de iluminação.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam22</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81917609932939,-22.91941938636596</coordinates></Point></Placemark>
+<Placemark>
+<name>000021'</name><description>PRAÇA ORLANDO DE BARROS PIMENTEL 4 - FIXA
+172.16.11.178
+Utilizando poste de iluminação.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam22</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81848115938801,-22.92008148579475</coordinates></Point></Placemark>
+<Placemark>
+<name>000022'</name><description>CÂMERA FLAMENGO 1 - FIXA
+172.16.11.171
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam41</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.80145043035576,-22.90314808576948</coordinates></Point></Placemark>
+<Placemark>
+<name>000023'</name><description>CÂMERA FLAMENGO 2 - FIXA
+172.16.11.172
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam41</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.80137063174647,-22.90322990127838</coordinates></Point></Placemark>
+<Placemark>
+<name>000024'</name><description>CÂMERA FLAMENGO 3 - FIXA
+172.16.11.173
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam41</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.80134841547439,-22.90309550101319</coordinates></Point></Placemark>
+<Placemark>
+<name>000025'</name><description>CÂMERA FLAMENGO 4 - FIXA
+172.16.11.174
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam41</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.80128331455396,-22.90315462494411</coordinates></Point></Placemark>
+<Placemark>
+<name>000026'</name><description>DOME - NOSSA SENHORA DO AMPARO
+172.16.11.31
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam21</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81891452260655,-22.9214775175425</coordinates></Point></Placemark>
+<Placemark>
+<name>000027'</name><description>PRAÇA ORLANDO DE BARROS PIMENTEL 1 - FIXA
+172.16.11.175
+Utilizando poste de iluminação.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam22</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81914178830866,-22.9195627572559</coordinates></Point></Placemark>
+<Placemark>
+<name>000028'</name><description>PRAÇA ORLANDO DE BARROS PIMENTEL 2 - FIXA
+172.16.11.176
+Utilizando poste de iluminação .</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam22</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81904340662151,-22.91987738395911</coordinates></Point></Placemark>
+<Placemark>
+<name>000029'</name><description>PRAÇA ORLANDO DE BARROS PIMENTEL 5 - FIXA
+172.16.11.179
+Utilizando poste de iluminação.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam22</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81835619677025,-22.92006052062986</coordinates></Point></Placemark>
+<Placemark>
+<name>000030'</name><description>DOME - PRAÇA SÃO JOSÉ
+172.16.13.48
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam30</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.890952461331,-22.93738589119518</coordinates></Point></Placemark>
+<Placemark>
+<name>000031'</name><description>DOME - PRAÇA DAS ESTATUAS
+172.16.11.136
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam250</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82144732864577,-22.92074897591149</coordinates></Point></Placemark>
+<Placemark>
+<name>000032'</name><description>SIM 1 - FIXA
+10.11.4.122
+Patrimonial, utilizando estrutura e rede do SIM.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam26</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82218164713774,-22.92130786033748</coordinates></Point></Placemark>
+<Placemark>
+<name>000034'</name><description>SIM 2 - FIXA
+10.11.4.124
+Patrimonial, utilizando estrutura e rede do SIM.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam26</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82203711812414,-22.9212143749233</coordinates></Point></Placemark>
+<Placemark>
+<name>000035'</name><description>Prefeitura Frente - FIXA
+10.40.1.2
+Patrimonial, utilizando estrutura e rede da prefeitura.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam92</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82093634492296,-22.92008997351164</coordinates></Point></Placemark>
+<Placemark>
+<name>000036'</name><description>PREFEITURA MURO IGREJA - FIXA
+10.40.1.15
+Patrimonial, utilizando estrutura e rede da prefeitura.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam92</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82108765120397,-22.92021357388778</coordinates></Point></Placemark>
+<Placemark>
+<name>000103'</name><description>Exterior Monitoramento - FIXA
+10.12.40.6
+Patrimonial, utilizando estrutura e rede do GGIM.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam4</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81904872899997,-22.91893045964716</coordinates></Point></Placemark>
+<Placemark>
+<name>000105'</name><description>Area Externa 1 - FIXA
+10.12.40.8
+Patrimonial, utilizando estrutura e rede do GGIM.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam4</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81912125923931,-22.91910251214868</coordinates></Point></Placemark>
+<Placemark>
+<name>000106'</name><description>AREA EXTERNA 2 - FIXA
+10.12.40.9
+Patrimonial, utilizando estrutura e rede do GGIM.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam4</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81918513113992,-22.91893052966842</coordinates></Point></Placemark>
+<Placemark>
+<name>000107'</name><description>AREA EXTERNA 3- FIXA
+10.12.40.10
+Patrimonial, utilizando estrutura e rede do GGIM.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam4</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.8192500061905,-22.91902901349139</coordinates></Point></Placemark>
+<Placemark>
+<name>000108'</name><description>Exterior Monitoramento - FIXA
+10.12.40.11
+Patrimonial, utilizando estrutura e rede do GGIM.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam4</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.819093633582,-22.91901983837878</coordinates></Point></Placemark>
+<Placemark>
+<name>000109'</name><description>Procuradoria CAM01 - FIXA
+172.16.1.4
+Patrimonial, utlizando estrutura e rede da procuradoria.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam10</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82693011776352,-22.9240030904438</coordinates></Point></Placemark>
+<Placemark>
+<name>000110'</name><description>Procuradoria CAM01 - FIXA
+172.16.1.5
+Patrimonial, utilizando estrutura e rede da procuradoria.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam10</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82682928854256,-22.92393754656856</coordinates></Point></Placemark>
+<Placemark>
+<name>000111'</name><description>Arena Mumbuca CEU CAM01 - FIXA
+172.16.1.101
+Patrimonial, utilizando estrutura e rede da Arena Mumbuca.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam14</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82697952541569,-22.90805938752995</coordinates></Point></Placemark>
+<Placemark>
+<name>000112'</name><description>Arena Mumbuca CEU CAM02 - FIXA
+172.16.1.98
+Patrimonial, utilizando estrutura e rede da Arena Mumbuca.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam14</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82727995073802,-22.9086846955842</coordinates></Point></Placemark>
+<Placemark id="33">
+<name>000113'</name><description>Arena Mumbuca CEU CAM03 - FIXA
+172.16.1.102
+Patrimonial, utilizando estrutura e rede da Arena Mumbuca.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam14</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82708646163123,-22.90805751002031</coordinates></Point></Placemark>
+<Placemark>
+<name>000114'</name><description>Arena Mumbuca CEU CAM04 - FIXA
+172.16.1.106
+Patrimonial, utilizando estrutura e rede da Arena Mumbuca.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam14</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82697465112074,-22.90897482015752</coordinates></Point></Placemark>
+<Placemark>
+<name>000115'</name><description>Arena Mumbuca CEU CAM05 - FIXA
+172.16.1.108
+Patrimonial, utilizando estrutura e rede da Arena Mumbuca.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam14</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82730075514811,-22.90890398476947</coordinates></Point></Placemark>
+<Placemark>
+<name>000116'</name><description>Arena Mumbuca CEU CAM06 - FIXA
+172.16.1.109
+Utilizando estrutura e rede da Arena Mumbuca.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam14</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82727968886507,-22.90895332756901</coordinates></Point></Placemark>
+<Placemark>
+<name>000117'</name><description>Arena Mumbuca CEU CAM07 - FIXA
+172.16.1.116
+Patrimonial, utilizando estrutura e rede da Arena Mumbuca.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam14</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82720110415367,-22.90847096837888</coordinates></Point></Placemark>
+<Placemark>
+<name>000118'</name><description>Urbanismo CAM01 - FIXA
+172.16.2.11
+Patrimonial, utilizando estrutura e rede do urbanismo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam26</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82287880063188,-22.9219061356453</coordinates></Point></Placemark>
+<Placemark>
+<name>000119'</name><description>Urbanismo CAM02 - FIXA
+172.16.2.12
+Patrimonial, utilizando estrutura e rede do urbanismo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam26</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82278738215441,-22.92186893632915</coordinates></Point></Placemark>
+<Placemark id="40">
+<name>000120'</name><description>Urbanismo CAM03 - FIXA
+172.16.2.16
+Patrimonial, utilizando estrutura e rede do urbanismo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam26</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82275328165775,-22.92196697504577</coordinates></Point></Placemark>
+<Placemark>
+<name>000121'</name><description>Frota  CAM01- FIXA
+172.16.33.10
+Patrimonial, utilizando estrutura da Frota.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam12</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.84511464025863,-22.9137714999224</coordinates></Point></Placemark>
+<Placemark>
+<name>000608'</name><description>Entrada Zacarias - FIXA
+10.1.30.30
+Utilizando estrutura do cerco.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam28</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82961020809499,-22.95683010975674</coordinates></Point></Placemark>
+<Placemark>
+<name>000609'</name><description>Entrada Restinga São Jose - FIXA
+10.3.30.30
+
+POSTE EXISTENTE
+INFRAESTRUTURA DO CERCO</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam22</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.89009795933455,-22.9458093018085</coordinates></Point></Placemark>
+<Placemark>
+<name>000610'</name><description>Dome Praça da Bandeira
+172.16.11.34
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam21</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81807949432171,-22.92330681979005</coordinates></Point></Placemark>
+<Placemark>
+<name>001044'</name><description>DOME -  RJ-106 - ITAPEBA
+172.16.13.39
+Poste de fibra 12 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam001</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.84730838393732,-22.91463154582609</coordinates></Point></Placemark>
+<Placemark>
+<name>001050'</name><description>R. Abreu Sodré, Mumbuca  - FIXA
+172.16.11.35
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam210</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82475791225353,-22.91101835819665</coordinates></Point></Placemark>
+<Placemark>
+<name>001051'</name><description>R. Abreu Sodré, Mumbuca - FIXA
+172.16.11.36
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam210</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82480619468614,-22.91096041250487</coordinates></Point></Placemark>
+<Placemark>
+<name>001052'</name><description>Estr. Velha de Maricá - Itapeba - FIXA
+172.16.13.32
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam8</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.84337313339706,-22.91267561301393</coordinates></Point></Placemark>
+<Placemark>
+<name>001053'</name><description>DOME - RJ106 - MANU MANUELA
+172.16.14.34
+POSTE CONCRETO EXISTENTE</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam28</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.90553988333218,-22.93612945299543</coordinates></Point></Placemark>
+<Placemark>
+<name>001055'</name><description>Rua Van Lembergue - A frente Rua Prof Cardoso  - Fixa
+172.16.16.39
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam230</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82145278865313,-22.91468463141357</coordinates></Point></Placemark>
+<Placemark>
+<name>001058'</name><description>DOME - ORLA DO MARINE, SÃO JOSÉ
+172.16.13.123
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam400</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.86862502195353,-22.93361035821151</coordinates></Point></Placemark>
+<Placemark>
+<name>001059'</name><description>DOME - RJ 106 - ENTRADA DO LTE DOM FELIPE
+172.16.13.6
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam40</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.86306111111112,-22.92449722222222</coordinates></Point></Placemark>
+<Placemark>
+<name>001060'</name><description>DOME - ESTR. VELHA DE MARICA
+172.16.13.36
+
+Postde de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam400</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.87205,-22.93343888888889</coordinates></Point></Placemark>
+<Placemark>
+<name>001064'</name><description>DOME -TV. ALTINO NOGUEIRA - SÃO JOSÉ DE IMBASSAÍ
+172.16.13.5
+
+POSTE 9 METROS</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam400</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.89011688173893,-22.93431656425165</coordinates></Point></Placemark>
+<Placemark>
+<name>001067'</name><description>DOME - ROD. AMARAL PEIXOTO ENTRADA CAXITO
+172.16.11.43
+Poste de fibra 12 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam210</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82265153782633,-22.90757725123438</coordinates></Point></Placemark>
+<Placemark>
+<name>001083'</name><description>Amendoeiras - Altura do Quiosque do Carlão - São José - Fixa
+172.16.13.7
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam24</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.87840111132645,-22.94057584175354</coordinates></Point></Placemark>
+<Placemark>
+<name>001087'</name><description>Modulo de Segurança UBATIBA - Fixa
+172.16.1.161
+Patrimonial, utlizando estrutura do modulo de segurança.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam34</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.77699430376779,-22.86594675686511</coordinates></Point></Placemark>
+<Placemark>
+<name>001088'</name><description>Modulo de Segurança UBATIBA - Fixa
+172.16.1.162
+Patrimonial, utilizando estrutura do modulo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam34</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.77683258679888,-22.86583138777372</coordinates></Point></Placemark>
+<Placemark>
+<name>001089'</name><description>DOME - AV. AMARAL PEIXOTO SAO JOSÉPOSTE 12 METROS
+172.16.13.3
+Poste de fibra 12 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam400</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.8737046991459,-22.93057194604926</coordinates></Point></Placemark>
+<Placemark>
+<name>001096'</name><description>R. Jovino Duarte de Oliveira, Rua do Forum - Fixa
+172.16.11.2
+Postde de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam23</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82632575291907,-22.92247593354647</coordinates></Point></Placemark>
+<Placemark>
+<name>001097'</name><description>R. Jovino Duarte de Oliveira, em direção ao Aeroporto - Fixa
+172.16.11.3
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam23</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82630913858457,-22.92231079334721</coordinates></Point></Placemark>
+<Placemark>
+<name>001098'</name><description>Dome - Amendoeiras - Quiosque do Carlão - São José
+172.16.13.19
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam24</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.87840008426279,-22.94067846096113</coordinates></Point></Placemark>
+<Placemark>
+<name>001100'</name><description>Dome - Esquina Do Fórum (OAB)
+172.16.11.29
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam23</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82663307912448,-22.9236505277842</coordinates></Point></Placemark>
+<Placemark>
+<name>001102'</name><description>DOME - ROTATORIA DE ZACARIAS - BARRA DE MARICA
+172.16.11.40
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam28</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82933755145457,-22.95692204498546</coordinates></Point></Placemark>
+<Placemark>
+<name>001103'</name><description>DOME - DECK POR DO SOL - ARAÇATIBA
+172.16.11.28
+Postde de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam310</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82965056547786,-22.93827804428732</coordinates></Point></Placemark>
+<Placemark>
+<name>001104'</name><description>DOME - AV. PREFEITO IVAN MUNDIN - SUBIDA DO BOQUEIRÃO
+172.16.11.27
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam28</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.8252934472367,-22.94346505038731</coordinates></Point></Placemark>
+<Placemark>
+<name>001105'</name><description>DOME - R. CLÍMACO PEREIRA, 17 - CENTRO
+172.16.11.4
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam21</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.8170520615657,-22.92346414333458</coordinates></Point></Placemark>
+<Placemark>
+<name>001106'</name><description>DOME - AV. PREFEITO IAN MUNDIN - PROXIMO AO MAURICIO ANTUNES
+172.16.11.5
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam310</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82452919800934,-22.93364510792849</coordinates></Point></Placemark>
+<Placemark>
+<name>001107'</name><description>DOME - PONTE DO BOQUEIRÃO
+172.16.11.6
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam28</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.8230239245836,-22.94922535141654</coordinates></Point></Placemark>
+<Placemark>
+<name>001108'</name><description>DOME - LONA CULTURAL MARIELE FRANCO - BARRA DE MARICA
+172.16.18.2
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam28</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81472385759403,-22.95690482101834</coordinates></Point></Placemark>
+<Placemark>
+<name>001109'</name><description>Av. Maysa - Rua 0 - Barra de Maricá - Fixa
+172.16.11.7
+Poste bandeira de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam28</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82705080920037,-22.95946425306359</coordinates></Point></Placemark>
+<Placemark>
+<name>001110'</name><description>Av. Maysa - direção a Rua 13 - Barra de Maricá - Fixa
+172.16.11.8
+Poste bandeira de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam28</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82683706111815,-22.95945900493763</coordinates></Point></Placemark>
+<Placemark>
+<name>001111'</name><description>Estrada do Caxito - Fixa
+172.16.12.2
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam18</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82354381542427,-22.89947044313541</coordinates></Point></Placemark>
+<Placemark>
+<name>001112'</name><description>Estrada do Pindobas - Fixa
+172.16.12.3
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam18</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.83526519651906,-22.9029880395192</coordinates></Point></Placemark>
+<Placemark>
+<name>001114'</name><description>DOME - ENTRADA DE UBATIBA 1 (RJ 114)
+172.16.11.9
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam46</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.79981908388399,-22.89387355893511</coordinates></Point></Placemark>
+<Placemark>
+<name>001115'</name><description>DOME - ENTRADA DE UBATIBA 2 (RJ 114)
+172.16.11.10
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam46</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.793513299026,-22.87914676957125</coordinates></Point></Placemark>
+<Placemark>
+<name>001116'</name><description>Av Maysa Prox a Praça de Guaratiba - Fixa
+172.16.18.7
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam28</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.80125077646216,-22.95978887384699</coordinates></Point></Placemark>
+<Placemark>
+<name>001117'</name><description>Av Maysa Prox a Praça de Guaratiba - Fixa
+172.16.18.8
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam28</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.80109569210438,-22.95978447566199</coordinates></Point></Placemark>
+<Placemark>
+<name>001118'</name><description>Modulo de Segurança SAO JOSE - Fixa
+172.16.33.33
+Utilizando estrutura do modulo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam51</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.87664887787079,-22.93166083847747</coordinates></Point></Placemark>
+<Placemark>
+<name>001119'</name><description>Modulo de Segurança SAO JOSE - Fixa
+172.16.33.34
+Utilizando estrutura do modulo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam51</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.87642873798132,-22.93180773058512</coordinates></Point></Placemark>
+<Placemark>
+<name>001120'</name><description>Modulo de Segurança CONDADO - Fixa
+172.16.1.163
+Patrimonial, utilizando estrutura do Modulo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam9</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.79509141527075,-22.90155138323946</coordinates></Point></Placemark>
+<Placemark>
+<name>001121'</name><description>Modulo de Segurança CONDADO - Fixa
+172.16.1.164
+Patrimonial, utilizando estrutura do modulo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam9</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.79505077075599,-22.90143512892402</coordinates></Point></Placemark>
+<Placemark>
+<name>001122'</name><description>Módulo de Segurança CONDADO - Fixa
+172.16.1.165
+Patrimonial, utilizando estrutura do Modulo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam9</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.79513624978415,-22.90137155660782</coordinates></Point></Placemark>
+<Placemark>
+<name>001123'</name><description>Dome  - RJ 106 - São José - Marine (Km 22)
+172.16.13.4
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam400</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.87871749221278,-22.93118606229925</coordinates></Point></Placemark>
+<Placemark>
+<name>001124'</name><description>DOME - R. 13 - DPO DA BARRA
+172.16.18.5
+Utilizar o poste d 12 metros no DPO.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam28</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81463836916859,-22.95949736608408</coordinates></Point></Placemark>
+<Placemark>
+<name>001133'</name><description>RJ 114 - Entrada do Silvado - FIXA
+10.1.30.45
+Utilizando estrutura do cerco.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam7</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.77489197025031,-22.8623494270155</coordinates></Point></Placemark>
+<Placemark>
+<name>001137'</name><description>Rua do Cemitério - Sent. Flamengo - FIXA
+172.16.11.11
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam21</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81235002712842,-22.92471839016332</coordinates></Point></Placemark>
+<Placemark>
+<name>001143'</name><description>Av. Roberto Silveira, S/N - Flamengo - FIXA
+172.16.11.131
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam00</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81115554466498,-22.91739033642333</coordinates></Point></Placemark>
+<Placemark>
+<name>001144'</name><description>Av. Roberto Silveira, S/N - Flamengo - FIXA
+172.16.11.132
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam00</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.8110274780384,-22.91741049151046</coordinates></Point></Placemark>
+<Placemark>
+<name>001146'</name><description>Dome - Orla João Português - Itapeba
+172.16.13.8
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam18</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.84156269926701,-22.91920493800662</coordinates></Point></Placemark>
+<Placemark>
+<name>001148'</name><description>Sereia de Araçatiba - FIXA
+172.16.11.41
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam310</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82787679650369,-22.93165729925559</coordinates></Point></Placemark>
+<Placemark>
+<name>001149'</name><description>Sereia de Araçatiba - FIXA
+172.16.11.42
+Utilizando poste de iluminação.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam310</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.8279833696553,-22.93242645470709</coordinates></Point></Placemark>
+<Placemark>
+<name>001150'</name><description>Deck de Araçatiba - FIXA
+172.16.11.14
+Utilizando estrutura do DECK.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam310</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82988548921715,-22.93848827276005</coordinates></Point></Placemark>
+<Placemark>
+<name>001151'</name><description>Deck de Araçatiba - FIXA
+172.16.11.15
+Utilizando estrutura do DECK.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam310</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82999565188658,-22.93861366000445</coordinates></Point></Placemark>
+<Placemark>
+<name>001152'</name><description>Estrada do Retiro - ASSEFAZ - FIXA
+172.16.12.4
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam001</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.85365195243946,-22.91070944181902</coordinates></Point></Placemark>
+<Placemark>
+<name>001153'</name><description>Av. Ver. Francisco Sabino da Costa - Eldorado - FIXA
+172.16.11.17
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam70</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81987049666976,-22.91363191533567</coordinates></Point></Placemark>
+<Placemark>
+<name>001154'</name><description>Av. Ver. Francisco Sabino da Costa - Eldorado - FIXA
+172.16.11.18
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam70</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.8199865796491,-22.91356759595946</coordinates></Point></Placemark>
+<Placemark>
+<name>001158'</name><description>Dome - Subida do Caju - Cemitério
+172.16.11.22
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam21</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81433366683654,-22.92485084200242</coordinates></Point></Placemark>
+<Placemark>
+<name>001159'</name><description>DOME - AV. ROBERTO SILVEIRA, 1944 - FLAMENGO
+172.16.11.23
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam29</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.80407481039821,-22.90867215101313</coordinates></Point></Placemark>
+<Placemark>
+<name>001161'</name><description>DOME - AV. PREF ODENIR FRANCISCO DA COSTA - ELDORADO
+172.16.11.20
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam2</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82016271288776,-22.92458097450361</coordinates></Point></Placemark>
+<Placemark>
+<name>001163'</name><description>DOME - RUA RIBEIRO DE ALMEIDA, 49 - ELDORADO
+172.16.11.21
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam50</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81748488670333,-22.91734926635418</coordinates></Point></Placemark>
+<Placemark>
+<name>001164'</name><description>DOME - R. BARÃO DE INOÃ - ELDORADO
+172.16.11.19
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam230</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81995371100349,-22.9163486510896</coordinates></Point></Placemark>
+<Placemark>
+<name>001169'</name><description>Est Zelito Monteiro de Abreu (Prox Campo do Caju) - Fixa
+10.1.30.44
+Utilizando estrutura do cerco.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam19</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.79127137617039,-22.92314846256071</coordinates></Point></Placemark>
+<Placemark>
+<name>001171'</name><description>Deck Por do Sol - Araçatiba - Fixa
+172.16.11.26
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam310</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82965832096819,-22.93836800043489</coordinates></Point></Placemark>
+<Placemark>
+<name>001172'</name><description>Dome - R. Sen. Macedo Soares, 114 - Centro
+172.16.11.25
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam230</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81871713426637,-22.91772664361953</coordinates></Point></Placemark>
+<Placemark>
+<name>001173'</name><description>Rotatoria do Scooby - Itapeba - FIXA
+172.16.13.17
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam8</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.84328500262455,-22.91261626269618</coordinates></Point></Placemark>
+<Placemark>
+<name>001174'</name><description>Dome - Praça Orla Parque Nanci
+172.16.13.9
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam18</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.84568773220519,-22.9212944590973</coordinates></Point></Placemark>
+<Placemark>
+<name>001176'</name><description>Entrada do Manu Manuela  - Fixa
+172.16.14.107
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam60</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.90570085776469,-22.93617168587485</coordinates></Point></Placemark>
+<Placemark>
+<name>001177'</name><description>Retorno Manu Manoela - Fixa
+172.16.14.41
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam60</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.90711796612046,-22.93609310495638</coordinates></Point></Placemark>
+<Placemark>
+<name>001189'</name><description>DOME - AV FRANCISCO SABINO DA COSTA ENTRADA
+10.1.30.208
+Utilizando estrutura e rede do cerco.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam210</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82046424469464,-22.91132902109974</coordinates></Point></Placemark>
+<Placemark>
+<name>001190'</name><description>AV FRANCISCO SABINO DA COSTA SAIDA - FIXA
+10.1.30.209
+Utilizando a estrutura e rede do cerco.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam210</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82060474653142,-22.91134976637732</coordinates></Point></Placemark>
+<Placemark>
+<name>001194'</name><description>PONTE DO SILVADO - FIXA
+172.16.11.38
+Utilizando poste de iluminação.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam7</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.7634995059808,-22.86547354394211</coordinates></Point></Placemark>
+<Placemark>
+<name>002007'</name><description>Exterior Arena Flamengo - Av. Roberto Silveira. - FIXA
+172.16.1.43
+Patrimonial, utilizando estrutura e a rede da Arena Flamengo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam16</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.80445353312176,-22.90952490010378</coordinates></Point></Placemark>
+<Placemark>
+<name>002008'</name><description>Exterior Arena Flamengo - 14 R. Uirapurús - FIXA
+172.16.1.44
+Patrimonial, utilizando estrutura e a rede da Arena Flamengo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam16</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.80475475145353,-22.90929774760018</coordinates></Point></Placemark>
+<Placemark>
+<name>002009'</name><description>Exterior Arena Flamengo - Av. Roberto Silveira x Uirapurús - FIXA
+172.16.1.45
+Patrimonial, utilizando estrutura e a rede da Arena Flamengo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam16</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.8045322341429,-22.90964691982503</coordinates></Point></Placemark>
+<Placemark>
+<name>002010'</name><description>Exterior Arena Flamengo - 12 R. Uirapurús - FIXA
+172.16.1.46
+Patrimonial, utilizando estrutura e a rede da Arena Flamengo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam16</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.80478054052246,-22.90956373004783</coordinates></Point></Placemark>
+<Placemark>
+<name>002011'</name><description>Coordenadoria de Abastecimento - 20 RJ-106 - FIXA
+172.16.22.10
+Patrimonial, utilizando estrutura e rede do Abastecimento.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam91</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81544326929554,-22.90593532909696</coordinates></Point></Placemark>
+<Placemark>
+<name>002012'</name><description>Coordenadoria de Abastecimento - Portão lateral - FIXA
+172.16.22.11
+Patrimonial, utilizando estrutura e rede do Abstecimento.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam91</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81569043982995,-22.90598107633519</coordinates></Point></Placemark>
+<Placemark>
+<name>002016'</name><description>DOME - 16 R. Abreu Sodré
+172.16.11.47
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam00</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81764670683138,-22.91591945793192</coordinates></Point></Placemark>
+<Placemark>
+<name>002022'</name><description>Terminal Rodoviário Centro 1 - FIXA
+172.16.110.11
+Patrimonial(FACIAL), utilizando a estrutura e rede da Rodoviaria.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81514115388431,-22.91636203222125</coordinates></Point></Placemark>
+<Placemark>
+<name>002023'</name><description>Terminal Rodoviário Centro 2 - FIXA
+172.16.110.12
+Patrimonial(FACIAL), utilizando a estrutura e rede da Rodoviaria.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.815208001919,-22.91636930462928</coordinates></Point></Placemark>
+<Placemark>
+<name>002024'</name><description>Terminal Rodoviário Centro 3 - FIXA
+172.16.110.13
+Patrimonial(FACIAL), utilizando a estrutura e rede da Rodoviaria.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81508383619965,-22.91651144710344</coordinates></Point></Placemark>
+<Placemark>
+<name>002025'</name><description>Terminal Rodoviário Centro 4 - FIXA
+172.16.110.14
+
+Patrimonial(FACIAL), utilizando a estrutura e rede da Rodoviaria.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81553372852107,-22.91644424375847</coordinates></Point></Placemark>
+<Placemark>
+<name>002026'</name><description>Terminal Rodoviário Centro 5 - FIXA
+172.16.110.15
+
+Patrimonial(FACIAL), utilizando a estrutura e rede da Rodoviaria.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81561740605949,-22.91645276647236</coordinates></Point></Placemark>
+<Placemark>
+<name>002027'</name><description>Terminal Rodoviário Centro 6 - FIXA
+172.16.110.16
+Patrimonial(FACIAL), utilizando a estrutura e rede da Rodoviaria.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81536425399214,-22.91658776571009</coordinates></Point></Placemark>
+<Placemark>
+<name>002028'</name><description>RJ-106 / Entrada do Caxito  - Fixa
+172.16.11.48
+Poste de fibra 12 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam210</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.82277736919532,-22.90754910758263</coordinates></Point></Placemark>
+<Placemark>
+<name>002031'</name><description>Portão Entrada Cemitério - FIXA
+172.16.110.21
+Patrimonial(FACIAL), utilizando estrutura e rede do Cemitério.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam270</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffff00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81266655153834,-22.9244303614585</coordinates></Point></Placemark>
+<Placemark>
+<name>002032'</name><description>R. Ari Spindola x Portão Cemitério - FIXA
+172.16.110.22
+Patrimonial(FACIAL), utilizando estrutura e rede do Cemitério.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam270</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffff00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81196151655146,-22.92335096905459</coordinates></Point></Placemark>
+<Placemark>
+<name>TOTEM PRAÇA ORLANDO DE BARROS</name><description>000728' - Totem PÇ Orlando de Barros - FIXA
+172.16.51.20
+
+000729' - Totem PÇ Orlando de Barros - FIXA
+172.16.51.21
+
+000730' - Totem PÇ Orlando de Barros - FIXA
+172.16.51.22
+
+000731' - Totem PÇ Orlando de Barros - FIXA
+172.16.51.23
+
+000732' - Totem PÇ Orlando de Barros - FIXA
+172.16.51.24
+
+000733' - Dome Totem PÇ Orlando de Barros
+172.16.51.25</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_blu-blank0</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-scale"><value>1.1</value></Data>
+  <Data name="icon-offset"><value>[32,1]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","pixels"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81832610019025,-22.91919877690659</coordinates></Point></Placemark>
+<Placemark>
+<name>TOTEM JOANA</name><description>000718' - CAMERA FRENTE TOTEM JOANA - FIXA
+172.16.11.50
+
+000719' - CAMERA USUARIO TOTEM JOANA - FIXA	172.16.11.51
+
+000720' - CAMERA DIREITA TOTEM JOANA - FIXA	172.16.11.52
+
+000721' - CAMERA ESQUERDA TOTEM JOANA - FIXA	172.16.11.53
+
+000722' - CAMERA TRASEIRA TOTEM JOANA - FIXA	172.16.11.54</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_blu-blank0</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-scale"><value>1.1</value></Data>
+  <Data name="icon-offset"><value>[32,1]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","pixels"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.81845782813368,-22.92250686355786</coordinates></Point></Placemark>
+<Placemark>
+<name>000001'</name><description>DOME - PRAÇA DE PONTA NEGRA
+172.16.19.100
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam38</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.69623878444881,-22.95419163846357</coordinates></Point></Placemark>
+<Placemark>
+<name>000002'</name><description>DOME - ORLA DE PONTA NEGRA
+172.16.19.101
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam38</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.69625469160767,-22.95687548677937</coordinates></Point></Placemark>
+<Placemark>
+<name>000006'</name><description>DOME- AV. MAYSA - RUA 90
+172.16.18.32
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam44</value></Data>
+  <Data name="label-scale"><value>0.1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.75465221064933,-22.95676744521239</coordinates></Point></Placemark>
+<Placemark>
+<name>001066'</name><description>DOME - ROD. AMARAL PEIXOTO - PONTA NEGRA
+172.16.19.21
+Poste de fibra 12 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam39</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.71088734686032,-22.90080645528646</coordinates></Point></Placemark>
+<Placemark>
+<name>001113'</name><description>DOME - ESTR. DO ESPRAIADO, 2301 - ESPRAIADO
+172.16.19.2
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam150</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.71498055555556,-22.89427222222222</coordinates></Point></Placemark>
+<Placemark>
+<name>001125'</name><description>Módulo de Segurança BAMBUI - Fixa
+172.16.18.101
+Patrimonial, utilizando estrutura do modulo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam11</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.74863171269111,-22.94116720164665</coordinates></Point></Placemark>
+<Placemark>
+<name>001126'</name><description>Módulo de Segurança BAMBUI - Fixa
+172.16.18.102
+Patrimonial, utilizando estrutura do modulo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam11</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.74873115667864,-22.94124727809799</coordinates></Point></Placemark>
+<Placemark>
+<name>001127'</name><description>Módulo de Segurança BAMBUI - Fixa
+172.16.18.103
+Patrimonial, utilizando estrutura do modulo.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam11</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.74865874253287,-22.94104235118939</coordinates></Point></Placemark>
+<Placemark>
+<name>001130'</name><description>Av. Maysa - Altura da Rua 141 sentido Cordeirinho - FIXA
+172.16.18.9
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam0</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.72142750402401,-22.95433979927875</coordinates></Point></Placemark>
+<Placemark>
+<name>001131'</name><description>Av. Maysa - Altura da Rua 141 - FIXA
+172.16.18.10
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam0</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.72082534476679,-22.95440482144718</coordinates></Point></Placemark>
+<Placemark>
+<name>001132'</name><description>Av Reginaldo Zeidan C/ Rua 90 - Cordeirinho - Fixa
+172.16.18.11
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam20</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.75493410946909,-22.95363064406735</coordinates></Point></Placemark>
+<Placemark>
+<name>001134'</name><description>PONTE PRETA - FIXA
+10.8.30.8
+Utilizando estrutura do cerco.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam42</value></Data>
+  <Data name="label-scale"><value>0.7</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.78620555555555,-22.95475</coordinates></Point></Placemark>
+<Placemark>
+<name>001135'</name><description>Estr. Crispim Gonçalves dos Santos - Ponta Negra - Fixa
+172.16.19.3
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam45</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.69811666666666,-22.95196666666666</coordinates></Point></Placemark>
+<Placemark>
+<name>001136'</name><description>Estr. Crispim Gonçalves dos Santos - Ponta Negra - Fixa
+172.16.19.4
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam45</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.69825267163326,-22.95211455426678</coordinates></Point></Placemark>
+<Placemark>
+<name>001145'</name><description>Rod. Amaral Peixoto - Entrada do Espraiado - FIXA
+172.16.11.13
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam3</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.73309783791225,-22.90616253431488</coordinates></Point></Placemark>
+<Placemark>
+<name>001147'</name><description>DOME - ESTRADA DE PONTA NEGRA (VALE DA FIGUEIRA)
+172.16.19.5</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam37</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.71981658763117,-22.91294723985382</coordinates></Point></Placemark>
+<Placemark>
+<name>001156'</name><description>DOME - ENTRADA DE JACONÉ
+172.16.19.6
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam45</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.69917222222222,-22.94431944444445</coordinates></Point></Placemark>
+<Placemark>
+<name>001157'</name><description>DOME - ROTATÓRIA DE JACONÉ
+172.16.19.7
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam37</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.67443792813273,-22.93709619658348</coordinates></Point></Placemark>
+<Placemark>
+<name>001160'</name><description>DOME - AV. REGINALDO ZEIDAN - JARDIM GUARATIBA
+172.16.18.12
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam33</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.79317904858046,-22.95686702508317</coordinates></Point></Placemark>
+<Placemark>
+<name>001162'</name><description>DOME - EST. ANTONIO CALADO - BAMBUÍ (Próx. a Ponte)
+172.16.18.13
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam19</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.7519818082074,-22.94584251758763</coordinates></Point></Placemark>
+<Placemark>
+<name>001166'</name><description>Rodovia Amaral Peixoto/ Serrinha - Fixa
+10.9.20.8
+Utilizando estrutura do cerco.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam37</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.69997376080697,-22.9061767519187</coordinates></Point></Placemark>
+<Placemark>
+<name>001167'</name><description>Curva do S - Ponta Negra - Fixa
+10.9.20.7
+Utilizando estrutura do cerco.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam45</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.70322601821253,-22.954356062858</coordinates></Point></Placemark>
+<Placemark>
+<name>001168'</name><description>Est Sampaio Correia Jaconé - Fixa
+10.9.20.6
+Utilizando estrutura do cerco.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam37</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.68503419852379,-22.94373876275584</coordinates></Point></Placemark>
+<Placemark>
+<name>001175'</name><description>Dome - Cruzamento Reginaldo Zeidan c/ Rua 107
+172.16.18.14
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam19</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.74673333333333,-22.95521388888889</coordinates></Point></Placemark>
+<Placemark>
+<name>001193'</name><description>PONTE DO ESPRAIADO - FIXA
+172.16.19.8
+Utilizando poste de iluminação.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam150</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.71241788589776,-22.89573830185978</coordinates></Point></Placemark>
+<Placemark>
+<name>002004'</name><description>Estrada do Espraiado - Cidade Sustentável - FIXA
+172.16.99.5
+Patrimonial, utilizando estrutura da Cidade Sustentavel.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam13</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.6941002477642,-22.8755368357419</coordinates></Point></Placemark>
+<Placemark>
+<name>002005'</name><description>Estrada do Espraiado - Rua Cidade Sustentável - FIXA
+172.16.99.12
+Patrimonial, utilizando estrutura da Cidade Sustentavel.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam13</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.69394931647928,-22.87543786203674</coordinates></Point></Placemark>
+<Placemark>
+<name>002033' e 002034'</name><description>002033' - DOME - MULTIDIRECIONAL - RJ-106 - PONTA NEGRA	172.16.19.14
+
+002034' - RJ-106 - MULTIDIRECIONAL - PONTA NEGRA - FIXA 1	172.16.19.15
+
+002035 - RJ-106 - MULTIDIRECIONAL - PONTA NEGRA - FIXA 2	172.16.19.15
+
+002036' - RJ-106 - MULTIDIRECIONAL - PONTA NEGRA - FIXA 3	172.16.19.15
+
+002037' - RJ-106 - MULTIDIRECIONAL - PONTA NEGRA - FIXA 4	172.16.19.15</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_wht-blank</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[32,1]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","pixels"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.71085366388662,-22.90102295239878</coordinates></Point></Placemark>
+<Placemark>
+<name>TOTEM PONTA NEGRA</name><description>001195' - TOTEM DE PONTA NEGRA - FIXA
+172.16.19.202
+
+001196' - TOTEM DE PONTA NEGRA - FIXA
+172.16.19.203
+
+001197' - TOTEM DE PONTA NEGRA - FIXA
+172.16.19.204
+
+001198' - TOTEM DE PONTA NEGRA - FIXA
+172.16.19.205
+
+001199' -  TOTEM DE PONTA NEGRA - FIXA
+172.16.19.206
+
+001200'- DOME TOTEM DE PONTA NEGRA
+172.16.19.207</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_blu-blank0</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-scale"><value>1.1</value></Data>
+  <Data name="icon-offset"><value>[32,1]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","pixels"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.69628603739989,-22.95408497371059</coordinates></Point></Placemark>
+<Placemark>
+<name>001014'</name><description>DOME - AV. ORESTES VEREZA - SPAR
+172.16.14.4
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#ms_ylw-pushpin</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93217798756807,-22.89097892997597</coordinates></Point></Placemark>
+<Placemark>
+<name>001046'</name><description>DOME - RJ 106 - ALTURA DO ATACADÃO TUBARÃO
+172.16.14.31
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam43</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.92557965157516,-22.92501066208445</coordinates></Point></Placemark>
+<Placemark>
+<name>001047'</name><description>DOME - PASSARELA DE INOÃ - UPA
+172.16.14.33
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam05</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93182935824145,-22.91486881314545</coordinates></Point></Placemark>
+<Placemark>
+<name>001049'</name><description>DOME - Rotatória Gilberto de Carvalho - Itaipuaçu
+172.16.14.5
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam82</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94402584110943,-22.9104034685058</coordinates></Point></Placemark>
+<Placemark>
+<name>001056'</name><description>RJ106 Altura do Posto Aleluia - Inõa - Fixa 
+172.16.14.99
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam05</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.92894394017261,-22.91913278959526</coordinates></Point></Placemark>
+<Placemark>
+<name>001065'</name><description>DOME - AV. CARLOS MARIGUELA X RUA SEIS
+172.16.14.17
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam05</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93513508282746,-22.91688562577584</coordinates></Point></Placemark>
+<Placemark>
+<name>001072'</name><description>Av Beira Rio x Av Carlos Mariguela Sent. Subestação - Fixa
+172.16.14.14
+Poste de concreto</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam82</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93808044778091,-22.91404134726265</coordinates></Point></Placemark>
+<Placemark>
+<name>001073'</name><description>Av Beira Rio - Fixa
+172.16.14.15
+Poste de concreto</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam82</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93797015589819,-22.91413681188495</coordinates></Point></Placemark>
+<Placemark>
+<name>001076'</name><description>Av. Orestes Vereza, 40 - Entrada Spar- Fixa
+172.16.14.7
+Poste de 7 metros</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam32</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94232431438658,-22.89852486860739</coordinates></Point></Placemark>
+<Placemark>
+<name>001077'</name><description>Av. Orestes Vereza, 40 - Entrada Spar- Fixa
+172.16.14.37 
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam32</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94217523926261,-22.8984812472754</coordinates></Point></Placemark>
+<Placemark>
+<name>001084'</name><description>Av Gilberto Carvalho - Fixa
+10.4.30.5
+Utilizando estrutura e a rede do CERCO.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin2</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94019272652555,-22.90164991470162</coordinates></Point></Placemark>
+<Placemark>
+<name>001085'</name><description>Av Gilberto Carvalho - Fixa
+10.4.30.6
+Utilizando estrutura e a rede do CERCO.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin2</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93998229691429,-22.90173007834105</coordinates></Point></Placemark>
+<Placemark>
+<name>001086'</name><description>RJ 106 Tubarão - Inoã - Vista para Av A - Fixa
+172.16.14.32
+Utilizando postde de iluminação e a rede da DOME 001046'</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam43</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.92526974202815,-22.92574466274372</coordinates></Point></Placemark>
+<Placemark>
+<name>001091'</name><description>Módulo de Segurança Cassorotiba - Fixa
+172.16.44.1
+Utilizando estrutura do Modulo de Segurança</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam190</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00ff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93224024744444,-22.89108932446632</coordinates></Point></Placemark>
+<Placemark>
+<name>001092'</name><description>Módulo de Segurança Cassorotiba - Fixa
+172.16.44.2
+Utilizando estrutura do Modulo de Segurança</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam190</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00ff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93245270546878,-22.89120271161564</coordinates></Point></Placemark>
+<Placemark>
+<name>001093'</name><description>Módulo de Segurança Cassorotiba - Fixa
+172.16.44.3
+Utilizando estrutura do Modulo de Segurança</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam190</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00ff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93231873382353,-22.89108326760028</coordinates></Point></Placemark>
+<Placemark>
+<name>001094'</name><description>Modulo de Segurança Calaboca - Fixa
+172.16.44.4
+Utilizando estrutura e a rede do Modulo de Segurança.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam101</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00ff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93949362812888,-22.90133244619193</coordinates></Point></Placemark>
+<Placemark>
+<name>001095'</name><description>Modulo de Segurança Calaboca - Fixa
+172.16.44.5
+Utilizando estrutura e a rede do Modulo de Segurança.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam101</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00ff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93966095208487,-22.90117131829311</coordinates></Point></Placemark>
+<Placemark>
+<name>001165'</name><description>Dome - RJ 106 - Descida do Calaboca
+172.16.14.16
+Poste de fibra 12m.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam32</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94658068926759,-22.89934290841895</coordinates></Point></Placemark>
+<Placemark>
+<name>001170'</name><description>Rua Cassorotiba  Santa Paula - Fixa
+10.4.30.9
+Utilizando poste e estrutura do CERCO</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.92270063765013,-22.88835454639257</coordinates></Point></Placemark>
+<Placemark>
+<name>001180'</name><description>Dome - Rua. Vinte e oito
+172.16.14.27
+Poste de 9 metros</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam43</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94459987527917,-22.93806243042213</coordinates></Point></Placemark>
+<Placemark>
+<name>001181'</name><description>Dome - Rua Cinco
+172.16.14.25
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam43</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93900669075936,-22.93384553378782</coordinates></Point></Placemark>
+<Placemark>
+<name>001182'</name><description>Dome - Rua. Cecília Ana Ferreira
+172.16.14.26
+Poste de 9 mestros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam82</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93662790035653,-22.92357252978832</coordinates></Point></Placemark>
+<Placemark>
+<name>001191'</name><description>ENTRADA LONA CULTURAL - FIXA
+172.16.14.18
+Utilizando poste de iluminação.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam110</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.9278824579537,-22.90759596691381</coordinates></Point></Placemark>
+<Placemark>
+<name>001192'</name><description>RUA DOS FUNDOS - LONA CULTURAL - FIXA
+172.16.14.19
+Utilizando poste de iluminação.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam110</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.92750362525788,-22.90695604395631</coordinates></Point></Placemark>
+<Placemark>
+<name>002000'</name><description>ENTRADA - LONA CULTURAL - FIXA
+172.16.14.30
+Utilizando poste de iluminação.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam110</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.92809028327557,-22.90767188889895</coordinates></Point></Placemark>
+<Placemark>
+<name>002001'</name><description>Av Beira Rio x Av Carlos Mariguela Sent. Caio Figueiredo   - Fixa
+172.16.14.28
+Utilizando poste de iluminação.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam82</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93830693251196,-22.91409942325473</coordinates></Point></Placemark>
+<Placemark>
+<name>002002'</name><description>Av Beira Rio x Av Carlos Mariguela Sent. Caio Figueiredo 2  - Fixa
+172.16.14.29
+Poste de concreto</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam82</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93807905517473,-22.91412497827807</coordinates></Point></Placemark>
+<Placemark>
+<name>000014'</name><description>DOME - RJ 106 - INOÃ
+172.16.14.10
+Poste antigo de 12 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam15</value></Data>
+  <Data name="label-scale"><value>0.6</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93333078173622,-22.91216794382154</coordinates></Point></Placemark>
+<Placemark>
+<name>TOTEM ESCOLAR DARCY</name><description>000723 'CAMERA FRENTE TOTEM DARCY - FIXA - 172.16.14.63
+
+000724' CAMERA TRASEIRA TOTEM DARCY - FIXA - 172.16.14.64
+
+000725' CAMERA DIREITA TOTEM DARCY - FIXA - 172.16.14.65
+
+000726' CAMERA USUARIO TOTEM DARCY - FIXA	 - 172.16.14.66
+
+000727' CAMERA ESQUERDA TOTEM DARCY - FIXA - 172.16.14.67</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_blu-blank</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-scale"><value>1.1</value></Data>
+  <Data name="icon-offset"><value>[32,1]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","pixels"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.92873238072615,-22.91366718187158</coordinates></Point></Placemark>
+<Placemark>
+<name>TOTEM DE TRANSITO INOÃ</name><description>000706' DOME - TOTEM INOÃ - 172.16.54.28
+
+000707' CAMERA FRENTE TOTEM INOA - FIXA - 172.16.54.24
+
+000708' CAMERA DIREITA TOTEM INOA - FIXA - 172.16.54.25
+
+000709' CAMERA ESQUERDA TOTEM INOA - FIXA	 - 172.16.54.26
+
+000710' CAMERA TRASEIRA TOTEM INOA - FIXA	- 172.16.54.27</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_blu-blank</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-scale"><value>1.1</value></Data>
+  <Data name="icon-offset"><value>[32,1]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","pixels"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93331572240911,-22.91215801738561</coordinates></Point></Placemark>
+<Placemark>
+<name>000017'</name><description>DOME - AV. CARLOS MARIGUELA X UPAM - ITAIPUAÇU
+172.16.16.110
+Poste de 9 metros(NOVO)</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam1010</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.95857627220846,-22.94106100440623</coordinates></Point></Placemark>
+<Placemark>
+<name>000033'</name><description>MIRANTE DA SERRINHA - FIXA
+10.6.30.100
+Utilizando poste existente e a estrutura do cerco.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-43.02153683905559,-22.96291654866625</coordinates></Point></Placemark>
+<Placemark>
+<name>000038'</name><description>CÂMERA TORRE EXTERNA  - FIXA
+10.4.165.12
+Utilizando poste de iluminação e a rede do CR4.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam90</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93553730079815,-22.93999526462756</coordinates></Point></Placemark>
+<Placemark>
+<name>000039'</name><description>CÂMERA TORRE INTERNA - FIXA
+10.4.165.11
+Utilizando a rede do CR4.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam90</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93573384216374,-22.93970005371857</coordinates></Point></Placemark>
+<Placemark>
+<name>000040'</name><description>CÂMERA TORRE EXTERNA  - FIXA
+10.4.165.13
+Utilizando poste de iluminação e a rede do CR4.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam90</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0000ff</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93671445428109,-22.94154077054525</coordinates></Point></Placemark>
+<Placemark>
+<name>001000'</name><description>Est dos Cajueiros - Em frente sentido Cajueiros - FIXA
+10.4.30.10
+Utilizando a estutura do medidor de velocidade e a rede do CERCO.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam17</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.92304578053171,-22.93437299764792</coordinates></Point></Placemark>
+<Placemark>
+<name>001001'</name><description>Est dos Cajueiros - Em frente sentido RJ106 - FIXA
+10.4.30.11
+Utilizando a estutura do medidor de velocidade e a rede do CERCO.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam17</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.92349979181365,-22.93445899794647</coordinates></Point></Placemark>
+<Placemark>
+<name>001002'</name><description>R. Jardel Filho (Av. 2) - Esq. R. Prof. Cardoso (R. Um)  - FIXA
+172.16.16.8
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam81</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96182920976204,-22.95673154863212</coordinates></Point></Placemark>
+<Placemark>
+<name>001004'</name><description>Rotatoria Jardel Filho x Cardoso de Menezes (Sentido Barroco) - FIXA
+172.16.16.118
+Poste de 7 Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam81</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96203897058268,-22.95671842635569</coordinates></Point></Placemark>
+<Placemark>
+<name>001005'</name><description>Est. dos Cajueiros - Em frente Sentido Modulo Segurança - FIXA
+172.16.14.9
+Poste de 7 Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam311</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93863837690757,-22.95034957471016</coordinates></Point></Placemark>
+<Placemark>
+<name>001006'</name><description>Estr. dos Cajueiros - Em frente saída Rodovia - FIXA
+172.16.14.109
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam311</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93851132790212,-22.95026669329066</coordinates></Point></Placemark>
+<Placemark>
+<name>001007'</name><description>Cajueiro Primeira Rotatória (Entrando) - FIXA
+172.16.14.110
+Poste de 7 Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam17</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93663608465364,-22.94409456373328</coordinates></Point></Placemark>
+<Placemark>
+<name>001008'</name><description>Estr dos Cajueiros Prox Cond. Chacara das Magueiras - FIXA
+172.16.14.11
+Poste de 7 metros</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam17</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93507981982753,-22.94221446845415</coordinates></Point></Placemark>
+<Placemark>
+<name>001009'</name><description>Estr dos Cajueiros Prox a Rua dezesseis - FIXA
+172.16.14.12
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam17</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.92922517729703,-22.93842598510958</coordinates></Point></Placemark>
+<Placemark>
+<name>001010'</name><description>Rua Um com Posto Golfinho - Em frente sentido Praia - FIXA
+172.16.16.3
+Poste de 7Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin0</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96221780162738,-22.94601210873536</coordinates></Point></Placemark>
+<Placemark>
+<name>001011'</name><description>Rua Um com Posto Golfinho - FIXA
+172.16.16.113
+Poste de 7Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin0</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96216009236151,-22.94561729550679</coordinates></Point></Placemark>
+<Placemark>
+<name>001017'</name><description>Rotatória Carlos Mariguela com Prof. Cardoso (Posto BR) - FIXA
+172.16.16.114
+Poste de 7 Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin0</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96211774555064,-22.9449451618845</coordinates></Point></Placemark>
+<Placemark>
+<name>001018'</name><description>Av. Carlos Mariguela - Sentido MCMV - FIXA
+172.16.16.4
+Poste de 7 Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin0</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96174781718087,-22.94482271164144</coordinates></Point></Placemark>
+<Placemark>
+<name>001019'</name><description>DOME - PRAÇA DOS GAVIÕES - ITAIPUAÇU
+172.16.16.33
+Poste de 9Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam200</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.97911916558719,-22.96726584514333</coordinates></Point></Placemark>
+<Placemark>
+<name>001022'</name><description>DOME - AV. BEIRA MAR - ALTURA DA RUA 70 - ITAIPUAÇU
+172.16.16.12
+Poste de 9 Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam04</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93868863203302,-22.97255914669307</coordinates></Point></Placemark>
+<Placemark>
+<name>001025'</name><description>Rotatória Av. Jardel Filho x Rua 66 - Em frente Sentido Rodoviária  - FIXA
+172.16.14.6
+Poste de 7 metros</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin3</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94231382114481,-22.95656735537588</coordinates></Point></Placemark>
+<Placemark>
+<name>001026'</name><description>Av. Jardel Filho - Jardim Atlântico - FIXA
+172.16.14.116
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin3</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94206909748939,-22.9565856340633</coordinates></Point></Placemark>
+<Placemark>
+<name>001027'</name><description>Estrada dos Cajueiros - FIXA
+172.16.14.13
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam17</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.92695967454304,-22.93671573678975</coordinates></Point></Placemark>
+<Placemark>
+<name>001028'</name><description>Morada das Águias - Sentido Recanto - FIXA
+172.16.16.101
+Poste de 7Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin000</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-43.00219157527582,-22.96217192583375</coordinates></Point></Placemark>
+<Placemark>
+<name>001029'</name><description>R. Prof. Cardoso de Menezes - Sent. Praia (alt. da rotatória com Jardel Filho) - FIXA
+172.16.16.7
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam81</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96224500739152,-22.95718067370698</coordinates></Point></Placemark>
+<Placemark>
+<name>001030'</name><description>Rotatória  Prof. Cardoso com Jardel Filho ( Sent. Carlos Marighela) - FIXA
+172.16.16.117
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam81</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.9</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96223803896952,-22.9573624413444</coordinates></Point></Placemark>
+<Placemark>
+<name>001031'</name><description>Morada das Águias - Recanto - Sentido Ferreirinha - FIXA
+172.16.16.102
+Poste de 7Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin000</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-43.00181181128604,-22.96222682611755</coordinates></Point></Placemark>
+<Placemark>
+<name>001032'</name><description>Morada das Águias - Recanto - Sentido Ferreirinha - FIXA
+172.16.16.103
+Poste de 7Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin000</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-43.00172553834715,-22.96223116989648</coordinates></Point></Placemark>
+<Placemark>
+<name>001033'</name><description>Rua 66 com Rua 35 - Sentido Rua 128 - FIXA
+172.16.16.10
+Poste de 7 metros</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam000</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94217981523264,-22.96715698952365</coordinates></Point></Placemark>
+<Placemark>
+<name>001034'</name><description>Rua 35 com Rua 66 - Sentido Rua um  - FIXA
+172.16.16.210
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam000</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94195433800054,-22.96716687360752</coordinates></Point></Placemark>
+<Placemark>
+<name>001035'</name><description>Cruzamento Rua 66 com Rua 35 (Sentido Rua 36) - FIXA
+172.16.16.11
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam000</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94241299656066,-22.96695716829115</coordinates></Point></Placemark>
+<Placemark>
+<name>001036'</name><description>Cruzamento Rua 66 com Rua 35 (Sentido Cajueiros) - FIXA
+172.16.16.111
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam000</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94240772370421,-22.96675339272998</coordinates></Point></Placemark>
+<Placemark>
+<name>001037'</name><description>Dome - Rua 128 - entrada da Restinga - Itaipuaçu
+172.16.13.24
+Poste de 9Metros</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam04</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.90463846348375,-22.96979555634706</coordinates></Point></Placemark>
+<Placemark>
+<name>001040'</name><description>DOME - AV. BEIRA MAR - ALTURA DA RUA 116
+172.16.16.214
+Poste de 9 metros</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam04</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.91527727543304,-22.97423589703058</coordinates></Point></Placemark>
+<Placemark>
+<name>001041'</name><description>Dome - Av. Carlos Mariguella - Entrada Itaocaia
+172.16.14.21
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam82</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.95107720846395,-22.91555070894652</coordinates></Point></Placemark>
+<Placemark>
+<name>001042'</name><description>DOME - PRAÇA DO RINCÃO MIMOSO
+172.16.16.22
+Poste de 9 Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam200</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.97226841473174,-22.950938741214</coordinates></Point></Placemark>
+<Placemark>
+<name>001043'</name><description>DOME - AV. BEIRA MAR - ALTURA DA RUA 53
+172.16.16.9
+Poste de 9Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam04</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.95309466462333,-22.97060486908296</coordinates></Point></Placemark>
+<Placemark>
+<name>001045'</name><description>DOME - ROTARIA DA RUA 63 COM RUA 66
+172.16.14.8
+Postde de 9 Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin3</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94249772771862,-22.9538769192836</coordinates></Point></Placemark>
+<Placemark>
+<name>001048'</name><description>DOME - PRAÇA SETENTA, ITAIPUAÇU
+172.16.16.21
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam04</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93868894533028,-22.97003464682524</coordinates></Point></Placemark>
+<Placemark>
+<name>001054'</name><description>Rua Van Lembergue X Av. Zumbi Frente a Praça Gaviões - Fixa
+172.16.16.38
+Poste de 7Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam200</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.97908439540948,-22.96471879998114</coordinates></Point></Placemark>
+<Placemark>
+<name>001055'</name><description>Rua Van Lembergue - A frente Rua Prof Cardoso  - Fixa
+172.16.16.39
+Poste de 7Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam200</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.97895789066887,-22.96473313721966</coordinates></Point></Placemark>
+<Placemark>
+<name>001057'</name><description>Av do Canal x R. Nsa Aparecida Itaipuaçu - Fixa
+172.16.16.32</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam200</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.99230715416382,-22.96813055555555</coordinates></Point></Placemark>
+<Placemark>
+<name>001061'</name><description>Av Jardel filho x Rua sessenta e tres - Fixa
+172.16.14.22
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin3</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94513421631029,-22.95684526045601</coordinates></Point></Placemark>
+<Placemark>
+<name>001068'</name><description>R. Van Lerbergue (34) - A frente Sent. Av. Zumbi - Fixa
+172.16.16.34
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam103</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96256996560192,-22.96474773135073</coordinates></Point></Placemark>
+<Placemark>
+<name>001069'</name><description>R. Van Lerbergue (34) - A frente sentido Cajueiros (66) - Fixa
+172.16.16.35
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam103</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96234183908747,-22.96474174654147</coordinates></Point></Placemark>
+<Placemark>
+<name>001070'</name><description>Rua Prof Cardoso Menezes - Sentido Terminal - Fixa
+172.16.16.36
+Poste de 7 Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam103</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96218865830251,-22.96422120947171</coordinates></Point></Placemark>
+<Placemark>
+<name>001071'</name><description>Rua Prof Cardoso Menezes - Fixa
+172.16.16.37
+Poste de 7 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam103</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96218670508427,-22.96441762507083</coordinates></Point></Placemark>
+<Placemark>
+<name>001074'</name><description>DOME - AV. BEIRA MAR X RUA 83
+172.16.16.213
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam04</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.92707421124521,-22.97409014018301</coordinates></Point></Placemark>
+<Placemark>
+<name>001075'</name><description>DOME - AV. BEIRA MAR X AV. ZUMBI DOS PALMARES
+172.16.16.5
+Poste de 9Metros</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam200</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.97936512971266,-22.96904677554536</coordinates></Point></Placemark>
+<Placemark>
+<name>001090'</name><description>Dome - Praça do Barroco - Itaipuaçu
+172.16.16.17
+Poste de 9Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam200</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.98036155453353,-22.95762344699088</coordinates></Point></Placemark>
+<Placemark>
+<name>001099'</name><description>Dome - Praça do Ferreirinha
+
+172.16.16.15
+Poste de 9Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam200</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.98676761564972,-22.96215055132972</coordinates></Point></Placemark>
+<Placemark>
+<name>001128'</name><description>Módulo de Segurança CAJUEIRO - FIXA
+172.16.44.6
+Utilizando a estrutura e a rede do Modulo de Segurança</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam71</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94089112616219,-22.95178971822759</coordinates></Point></Placemark>
+<Placemark>
+<name>001129'</name><description>Módulo de Segurança CAJUEIRO - FIXA
+172.16.44.7
+Utilizando estrutura e rede do Modulo de Segurança</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam71</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#00aa00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94087113250761,-22.95166508722301</coordinates></Point></Placemark>
+<Placemark>
+<name>001139'</name><description>Módulo de Segurança RECANTO - FIXA
+172.16.66.1
+Utilizando estrutura do Modulo de Segurança.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin000</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-43.01053884657567,-22.96864277670848</coordinates></Point></Placemark>
+<Placemark>
+<name>001140'</name><description>Módulo de Segurança RECANTO - FIXA
+172.16.66.2
+Utilizando estrutura do Modulo de Segurança.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin000</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-43.01042568593378,-22.96862786924298</coordinates></Point></Placemark>
+<Placemark>
+<name>001141'</name><description>Módulo de Segurança RECANTO - FIXA
+172.16.66.3
+Utilizando estrutura do Modulo de Segurança.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin000</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-43.01054428687483,-22.96853924570205</coordinates></Point></Placemark>
+<Placemark>
+<name>001142'</name><description>Módulo de Segurança RECANTO - FIXA
+172.16.66.4
+Utilizando estrutura do Modulo de Segurança.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin000</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-43.01044053532656,-22.96853356668314</coordinates></Point></Placemark>
+<Placemark>
+<name>001188'</name><description>Dome - Rua 01
+172.16.16.18
+Poste de 9 Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam103</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96219009920723,-22.9698413788345</coordinates></Point></Placemark>
+<Placemark>
+<name>002006'</name><description>DOME - TORRE CR4
+10.4.165.14
+Câmera instalada na Torre utilizando a rede do CR4.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_movies</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>1.2</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/movies.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93546701245015,-22.93952309154206</coordinates></Point></Placemark>
+<Placemark>
+<name>002013'</name><description>DOME - DESCIDA DA SERRINHA - SENTIDO ITAIPUAÇU
+10.6.30.101
+Utilizando poste existente e a estrutura do cerco.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin000</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-43.02005806075643,-22.96225504362036</coordinates></Point></Placemark>
+<Placemark>
+<name>002014'</name><description>17 Av. Zumbi dos Palmares - SENTIDO BARROCO - FIXA
+172.16.16.41
+Poste de 7Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam200</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.97917362057981,-22.96509051465056</coordinates></Point></Placemark>
+<Placemark>
+<name>002015'</name><description>17 Av. Zumbi dos Palmares - Sentido Praia AV.1 - FIXA
+172.16.16.40
+Poste de 7Metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam200</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.97917006707551,-22.96523241395672</coordinates></Point></Placemark>
+<Placemark>
+<name>002017'</name><description>Terminal Rodoviário de Itaipuaçu 1 - FIXA - FACIAL
+172.16.160.11
+Utlizando estrutura do terminal.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam160</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96224080605315,-22.96204239111856</coordinates></Point></Placemark>
+<Placemark>
+<name>002018'</name><description>Terminal Rodoviário de Itaipuaçu 2 - FIXA - FACIAL
+172.16.160.12
+Utlizando estrutura do terminal.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam160</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.9622455223621,-22.96236795065274</coordinates></Point></Placemark>
+<Placemark>
+<name>002019'</name><description>Terminal Rodoviário de Itaipuaçu 3 - FIXA - FACIAL
+172.16.160.13
+Utlizando estrutura do terminal.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam160</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96200768708956,-22.96238052345588</coordinates></Point></Placemark>
+<Placemark>
+<name>002020'</name><description>Terminal Rodoviário de Itaipuaçu 4 - FIXA - FACIAL
+172.16.160.14
+Utlizando estrutura do terminal.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam160</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffff00</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.96201534983809,-22.96204431962615</coordinates></Point></Placemark>
+<Placemark>
+<name>002021'</name><description>Av. 2 R. Jardel Filho - sentido Rua Um x Esq. 63 - FIXA
+10.4.30.45
+Utilizando estrutura e rede do CERCO.</description><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin3</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.94550210306311,-22.95660280743541</coordinates></Point></Placemark>
+<Placemark>
+<name>002029'</name><description>DOME - Av. da Praia x R. Nossa Sra. Aparecida
+172.16.16.25
+Utilizando poste de iluminação.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam200</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.99212757740371,-22.9689698968902</coordinates></Point></Placemark>
+<Placemark>
+<name>002030'</name><description>DOME - Av. Jardel Filho x Av. das Gardênias
+172.16.16.24
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam100</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.97577944390466,-22.95952992507013</coordinates></Point></Placemark>
+<Placemark>
+<name>002038'</name><description>DOME - AV. CARLOS MARIGUELA 273  X RUA NOVE
+172.16.14.35
+Poste de 9 metros.</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam35</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.95433339958922,-22.93286703507661</coordinates></Point></Placemark>
+<Placemark>
+<name>'002039'</name><description>DOME - PRAIA DO RECANTO
+172.16.45.7
+Instalada em um poste de eucalipto tratado de 8 metros</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_webcam5</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff0000</value></Data>
+  <Data name="icon-scale"><value>0.8</value></Data>
+  <Data name="icon-offset"><value>[0.5,0]</value></Data>
+  <Data name="icon-offset-units"><value>["fraction","fraction"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/shapes/webcam.png</value></Data></ExtendedData>
+  <Point><coordinates>-43.01339525149813,-22.97128816546464</coordinates></Point></Placemark>
+<Placemark>
+<name>TOTEM BARROCO</name><description>000700' DOME - TOTEM BARROCO - 172.16.56.9
+
+000701' CAMERA DIREITA TOTEM BARROCO - FIXA - 172.16.56.4
+
+000702'  CAMERA ESQUERDA TOTEM BARROCO - FIXA - 172.16.56.5
+
+000703' CAMERA FRENTE TOTEM BARROCO - FIXA - 172.16.56.6
+
+000704' CAMERA USUARIO TOTEM BARROCO - FIXA - 172.16.56.7
+
+000705' CAMERA TRASEIRA TOTEM BARROCO - FIXA - 172.16.56.8</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_blu-blank</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-scale"><value>1.1</value></Data>
+  <Data name="icon-offset"><value>[32,1]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","pixels"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.97992213335355,-22.95738424969244</coordinates></Point></Placemark>
+<Placemark>
+<name>TOTEM DE TRANSITO CEPT</name><description>000712' DOME - TOTEM CEPT - 172.16.54.8
+
+000714' CAMERA ESQUERDA TOTEM CEPT -  FIXA - 172.16.54.4
+
+000715' CAMERA FRENTE TOTEM CEPT - FIXA - 172.16.54.5
+
+000716' CAMERA TRASEIRA TOTEM CEPT - FIXA - 172.16.54.6
+
+000717' CAMERA DIREITA TOTEM CEPT - FIXA - 172.16.54.7</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_blu-blank</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-scale"><value>1.1</value></Data>
+  <Data name="icon-offset"><value>[32,1]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","pixels"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.95317383352229,-22.95662280049486</coordinates></Point></Placemark>
+<Placemark>
+<name>TOTEM MARISA LÉTICIA</name><description>001183- CAMERA TRASEIRA TOTEM MARISA LETICIA - FIXA
+172.16.14.77
+
+001184' - CAMERA FRENTE TOTEM MARISA LETICIA - FIXA
+172.16.14.78
+
+001185' - CAMERA USUARIO TOTEM MARISA LETICIA - FIXA	172.16.14.79
+
+001186' - CAMERA ESQUERDA TOTEM MARISA LETICIA - FIXA	172.16.14.80
+
+001187' - CAMERA DIREITA TOTEM MARISA LETICIA - FIXA	172.16.14.81</description><ExtendedData>
+  <Data name="styleUrl"><value>#msn_blu-blank0</value></Data>
+  <Data name="label-scale"><value>0.8</value></Data>
+  <Data name="icon-scale"><value>1.1</value></Data>
+  <Data name="icon-offset"><value>[32,1]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","pixels"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</value></Data></ExtendedData>
+  <Point><coordinates>-42.93673046561755,-22.92255234527245</coordinates></Point></Placemark></Document></kml>
